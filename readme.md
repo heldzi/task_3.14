@@ -1,5 +1,5 @@
 # **Инструкция по работе с GIT**
-![git-logo](640px-Git-logo.svg.png)
+![git-logo](git%20for%20readme.png)
 
 ---
 
@@ -11,10 +11,10 @@
 ## Содержание:
 
 1. [Введение в **Git**](paragraph_1.md)
-2. Основы **Git** и **GitHub**
-   + Понятия **Git** и **GitHub**
-   + Установка **Git**
-   + Регистрация на **GitHub**
+2. [Основы **Git** и **GitHub**](paragraph_2.md)
+   + [Понятия **Git** и **GitHub**](paragraph_2.md#21-понятия-git-и-github)
+   + [Установка **Git**](paragraph_2.md#22-установка-git)
+   + [Регистрация на **GitHub**](paragraph_2.md#23-регистрация-на-github)
 3. Ветвление: основные понятия и виды
 4. Синтаксис
 5. Коммиты и конфликты
