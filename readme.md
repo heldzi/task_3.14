@@ -20,6 +20,7 @@
 5. [Коммиты и конфликты](/paragraph_5.md)
 6. [Работа с  **.gitignore**](paragraph_6.md)
 7. [Культура работы в **Git**](paragraph_7.md)
+8. [Заключение](end.md)
 
 
 
