@@ -31,5 +31,5 @@ ___
 + LICENSE: [MIT](/license.md)
 
 + Git logo by Jason Long. [License](http://git-scm.com/downloads/logos)
-+ Работа выполнена Одинцовым Н. А.
-+ Ссылки на полезные ресурсы
+
++ [Ссылки на полезные ресурсы](links.md)
